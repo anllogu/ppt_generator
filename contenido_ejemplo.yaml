@@ -1,0 +1,29 @@
+# Ejemplo de archivo YAML para ppt_generator.py
+
+foundation: CRM
+cliente: Empresa XYZ
+sector: Tecnología
+plataforma: CRM Cloud
+titulo_caso_de_uso: Implementación de CRM en la nube
+pais: España
+reto_del_cliente: |
+  · Reducción de costos operativos
+  · Mejora de la eficiencia del equipo de ventas
+  · Aumento de la satisfacción del cliente
+  · Integración con sistemas existentes  
+  
+valor_de_negocio: |
+  · Incremento del 30% en la productividad"
+  · Aumento del 20% en la satisfacción del cliente
+  · Reducción del 15% en el tiempo de respuesta a clientes
+  · Mejora del 25% en la retención de clientes
+  
+solucion_implementada: |
+  · Integración con sistemas existentes
+  · Salesforce como plataforma CRM
+  · Uso de Agentforce para automatización de procesos
+  
+informacion_tecnica: |
+  · Migración de datos automatizada
+  · Capacitación a usuarios finales
+  
